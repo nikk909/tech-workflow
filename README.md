@@ -261,21 +261,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📸 Screenshots
 
-### Dashboard View
+### 📊 Dashboard - 仪表盘
 ![Dashboard](docs/screenshots/dashboard.png)
-*Real-time metrics and project overview with interactive charts*
+*实时项目指标、团队成员统计、进度趋势分析与任务状态分布 / Real-time project metrics, team statistics, progress trends, and task distribution*
 
-### Task Management
+### 📋 Project Management - 项目管理
+![Project Management](docs/screenshots/projects.png)
+*项目卡片展示，包含进度、负责人、里程碑等关键信息 / Project cards with progress, leaders, milestones, and key information*
+
+### ✅ Task Management - 任务管理
 ![Task Management](docs/screenshots/tasks.png)
-*Comprehensive task tracking with priority and status indicators*
+*全面的任务追踪，状态、负责人、优先级一目了然 / Comprehensive task tracking with status, assignees, and priority indicators*
 
-### Data Analytics
-![Analytics](docs/screenshots/analytics.png)
-*Detailed performance metrics and trend analysis*
-
-### System Settings
-![Settings](docs/screenshots/settings.png)
-*User management and system configuration interface*
+### ⚙️ System Settings - 系统设置
+![System Settings](docs/screenshots/settings.png)
+*用户权限管理、角色分配、部门配置界面 / User permission management, role assignment, and department configuration*
 
 ---
 
