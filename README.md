@@ -103,10 +103,10 @@ TechFlow TaskFlow embraces a **"Futuristic Minimalism"** design language:
 
 ```bash
 # Clone the repository
-git clone https://github.com/my6305/techflow-taskflow.git
+git clone https://github.com/nikk909/tech-workflow.git
 
 # Navigate to project directory
-cd techflow-taskflow/project-manager-proto
+cd tech-workflow/project-manager-proto
 
 # Install dependencies
 npm install
@@ -249,9 +249,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**my6305**  
+**nikk909**  
 📧 Email: 2536590932@qq.com  
-🔗 GitHub: [@my6305](https://github.com/my6305)
+🔗 GitHub: [@nikk909](https://github.com/nikk909)
 
 ## 🙏 Acknowledgments
 
