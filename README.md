@@ -261,21 +261,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📸 Screenshots
 
-### Dashboard View
-![Dashboard](docs/screenshots/dashboard.png)
-*Real-time metrics and project overview with interactive charts*
+> **Note**: Screenshots will be added soon. You can view the live demo by running the project locally.
 
-### Task Management
-![Task Management](docs/screenshots/tasks.png)
-*Comprehensive task tracking with priority and status indicators*
-
-### Data Analytics
-![Analytics](docs/screenshots/analytics.png)
-*Detailed performance metrics and trend analysis*
-
-### System Settings
-![Settings](docs/screenshots/settings.png)
-*User management and system configuration interface*
+To see the application in action:
+```bash
+cd project-manager-proto
+npm install
+npm start
+```
+The application will open at `http://localhost:3000` with all features available:
+- 📊 Dashboard with real-time metrics and interactive charts
+- 📋 Task Management with comprehensive tracking
+- 📈 Data Analytics with detailed performance metrics
+- ⚙️ System Settings with user management interface
 
 ---
 
